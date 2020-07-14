@@ -1,6 +1,12 @@
-以下の要素で構成されています。
+# やってほしいこと
+* code→downloadZipからここに書いてあるコードをダウンロード
+* Basisフォルダ内のBasis.ipynbをjupyternotebookから動かすこと。
+* ForLaboratoryフォルダ内のLIFmodel.ipynbを動かすこと。
+  * 出来れば自力で実装してみるまで。
 
-## Basis
+## 構成
+
+### Basis
 jupyter notebookで動くようにしています。
 
 pythonの基礎の基礎だけ載せています。
@@ -12,17 +18,12 @@ pythonの基礎の基礎だけ載せています。
 
 必要であろう基礎情報をまとめただけなので特に読まなくていい。
 
-## ForLaboratory
+### ForLaboratory
 
 LIF(leaky-integrate-and-fire)モデルのグラフ表示を目標に書いています。
 
 jupyter notebookで動くようにしています。必ず自分で動かしてみること、できればLIFモデルの自力での実装までしてほしい。
 
-## Environment
-まだ
-* 仮想環境の作成とVSCodeでの動かし方を載せたい(予定)。
+### others
 
-## others
-まだ
-
-* 追加でPythonに関する勉強を行いたい場合に使用できるサイト。
+* 追加でPythonに関する勉強を行いたい場合に使用できるサイトをメモした。
