@@ -1,6 +1,7 @@
 以下の要素で構成されています。
 
 ## Basis
+jupyter notebookで動くようにしています。
 
 pythonの基礎の基礎だけ載せています。
 * Hello World!
@@ -15,7 +16,7 @@ pythonの基礎の基礎だけ載せています。
 
 LIF(leaky-integrate-and-fire)モデルのグラフ表示を目標に書いています。
 
-必ず自分で動かしてみること、できればLIFモデルの自力での実装までしてほしい。
+jupyter notebookで動くようにしています。必ず自分で動かしてみること、できればLIFモデルの自力での実装までしてほしい。
 
 ## Environment
 まだ
@@ -24,4 +25,4 @@ LIF(leaky-integrate-and-fire)モデルのグラフ表示を目標に書いてい
 ## others
 まだ
 
-* 追加でPythonに関する勉強を行いたい場合に使用できるサイトや遊び(?)で実装したアルゴリズムを載せたい(予定)。
+* 追加でPythonに関する勉強を行いたい場合に使用できるサイト。
