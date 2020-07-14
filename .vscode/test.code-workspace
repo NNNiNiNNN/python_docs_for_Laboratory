@@ -1,0 +1,11 @@
+{
+    "folders": [
+        {
+            "path": "C:\\Users\\narik\\Documents\\Projects\\python-docs\\"
+        }
+    ],
+    "settings": {
+        "python.pythonPath": "C:\\Users\\narik\\anaconda3\\envs\\py37\\python.exe",
+        "python.autoComplete.extraPaths": ["C:\\Users\\narik\\anaconda3\\envs\\py37\\Lib\\site-packages"]
+    }
+}
