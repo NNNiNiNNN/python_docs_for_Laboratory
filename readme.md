@@ -1,3 +1,5 @@
+研究室でのコーディング教育用資料です。
+
 # やってほしいこと
 * code→downloadZipからここに書いてあるコードをダウンロード
 * Basisフォルダ内のBasis.ipynbをjupyternotebookから動かすこと。
